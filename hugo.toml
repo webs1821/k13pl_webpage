@@ -1,0 +1,68 @@
+baseURL = 'https://k13.pl/'
+languageCode = 'pl-pl'
+title = 'Konrad-k13pl'
+theme = "m10c"
+
+[params]
+  author = "Konrad-k13pl Konrad Połys"
+  description = "Moje naprawy, udane i czasem te nie udane. Szeroko pojęte majsterkowanie. Moje hobby."
+  menu_item_separator = " - "
+  avatar = "images/avatar.jpg"
+  favicon = "images/favicon.png"
+
+  [[params.social]]
+    icon = "facebook"
+    name = "Facebook"
+    url = "https://www.facebook.com/konradk13pl"
+
+ [[params.social]]
+    icon = "instagram"
+    name = "Instagram"
+    url = "https://www.instagram.com/konradk13pl/"
+
+  [[params.social]]
+    icon = "youtube"
+    name = "YouTube"
+    url = "https://www.youtube.com/@konradk13pl"
+
+  [[params.social]]
+    icon = "gitlab"
+    name = "GitLab"
+    url = "https://gitlab.com/webs1821"
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/webs1821"
+
+  [[params.social]]
+    icon = "printer"
+    name = "Printables"
+    url = "https://www.printables.com/@Konradk13pl_1676280"
+
+
+  # Default theme
+[params.style]
+  #  darkestColor = "#242930"
+  #  darkColor = "#353b43"
+  #  lightColor = "#afbac4"
+  #  lightestColor = "#ffffff"
+  #  primaryColor = "#57cc8a"
+# primaryColor = "#17182b"
+
+
+  # Green theme
+#[params.style]
+#  darkestColor = "#315659"
+#  darkColor = "#253031"
+#  lightColor = "#96a879"
+#  lightestColor = "#fff"
+#  primaryColor = "#dad865"
+
+  # Red theme
+  #[params.style]
+  #  darkestColor = "#d35050"
+  #  darkColor = "#212121"
+  #  lightColor = "#d6d6d6"
+  #  lightestColor = "#d3d3d3"
+    primaryColor = "#ffffff"
