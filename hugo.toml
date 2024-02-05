@@ -26,14 +26,14 @@ theme = "m10c"
     url = "https://www.youtube.com/@konradk13pl"
 
   [[params.social]]
-    icon = "gitlab"
-    name = "GitLab"
-    url = "https://gitlab.com/webs1821"
-
-  [[params.social]]
     icon = "github"
     name = "GitHub"
     url = "https://github.com/webs1821"
+
+  [[params.social]]
+    icon = "gitlab"
+    name = "GitLab"
+    url = "https://gitlab.com/webs1821"
 
   [[params.social]]
     icon = "printer"
